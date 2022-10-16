@@ -46,8 +46,8 @@ sidebar:
   info: # 个人信息 
     - key: 地址 
       val: wu hu       
-    - key: 年龄
-      val: 20
+    - key: 专业
+      val: 计算机
 
 
     
