@@ -1,0 +1,35 @@
+banner:
+  default:
+    type: img
+    bgurl: /img/banner.png
+    bannerText: Hi my new friend!
+  index:
+    type: video
+    bannerTitle: 树深时见鹿，<br>溪午不闻钟。
+    bannerText: Hi my new friend!
+    videoUrl: 
+    bgurl: https://cdn.moji.com/websrc/video/autumn20190924.mp4
+  archive:
+    bannerTitle: 云间连下榻，<br>天上接行杯。
+    bannerText: The article archive
+  links:
+    bannerTitle: 莫愁前路无知己，<br>天下谁人不识君。
+    bannerText: A link to a friend's website
+  comment:
+    bannerTitle: 醉后不知天在水，<br>满船清梦压星河。
+    bannerText: The magic tree hole
+  about:
+    bannerTitle: 醉后不知天在水，<br>满船清梦压星河。
+    bannerText: About me
+user:
+  name: Trick
+  first_name: blog
+  last_name: Trick's
+  email: admin@imalun.com
+  domain: https://mail.qq.com/cgi-bin/frame_html?sid=MIzMmn-GdrfwOEMg&r=b376025a14dfd819f9ee0b70f1968014&lang=zh
+  avatar: /img/avatar.jpg
+  describe: 网站简介。
+  ruleText: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+
+
+    
