@@ -54,3 +54,13 @@ sidebar:
 # Whether swup is enabled
 swup: true
     
+top_bars:
+  - title: home
+    url: /
+    children:
+  - title: archives
+    url: /archives/
+    noswup: false
+  - title: about
+    url: /about/
+    noswup: true
