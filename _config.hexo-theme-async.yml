@@ -63,4 +63,11 @@ top_bars:
     noswup: false
   - title: about
     url: /about/
-    noswup: true
+    noswup: false
+  - title: tags
+    url: /tags/
+    noswup: false
+  - title: categories
+    url: /categories/
+    noswup: false   
+
