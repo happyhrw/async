@@ -60,7 +60,14 @@ links:
     url: //www.imalun.com/
     image: //www.imalun.com/images/avatar.jpg
     desc: 醒，亦在人间；梦，亦在人间
-
+- name: 阿童木の秘密基地
+    url: https://atongmu.netlify.app/
+    image: https://atm-1258949050.cos.ap-nanjing.myqcloud.com/blog/202210121054307.jpg
+    desc: 室友的博客网站
+- name: 痞老板の梦中小屋 
+    url: https://jiangxiaojie.netlify.app
+    image: https://jiangxiaojie.netlify.app/images/theme/welcome-image.jpg
+    desc: 室友2的博客网站
 top_bars:
   - title: home
     url: /
