@@ -130,7 +130,10 @@ sidebar:
   social:
     - name: Github
       icon: fab fa-github
-      url: https://github.com
+      url: https://github.com/happyhrw
+    - name: Gitee
+      icon: fab fa-github-alt
+      url: https://gitee.com/happy-hrw
     - name: Twitter
       icon: fab fa-twitter
       url: https://twitter.com
