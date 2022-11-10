@@ -26,10 +26,10 @@ user:
   first_name: blog
   last_name: Trick's
   email: 2076304828@qq.com
-  domain: https://mail.qq.com/cgi-bin/frame_html?sid=MIzMmn-GdrfwOEMg&r=b376025a14dfd819f9ee0b70f1968014&lang=zh
+  domain: https://trick70.netlify.app/
   avatar: /img/avatar.jpg
-  describe: 网站简介。
-  ruleText: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+  describe: 人生海海，山山而川，不过尔尔。
+  ruleText: 本人的博客网站。
 footer:
   live_time:
     enable: true
@@ -54,6 +54,13 @@ sidebar:
 # Whether swup is enabled
 swup: true
     
+
+links:
+  - name: 白云苍狗
+    url: //www.imalun.com/
+    image: //www.imalun.com/images/avatar.jpg
+    desc: 醒，亦在人间；梦，亦在人间
+
 top_bars:
   - title: home
     url: /
@@ -70,4 +77,7 @@ top_bars:
   - title: categories
     url: /categories/
     noswup: false   
+  - title: links
+    url: /links/
+    noswup: false
 
