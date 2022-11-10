@@ -29,7 +29,7 @@ user:
   domain: https://trick70.netlify.app/
   avatar: /img/avatar.jpg
   describe: 人生海海，山山而川，不过尔尔。
-  ruleText: 本人的博客网站。
+  ruleText: 一名计算机专业学生的博客网站，主要发表自己的学习笔记，网站采用的Hexo框架。提醒：如有侵权，可以点左侧联系我
 footer:
   live_time:
     enable: true
@@ -60,14 +60,18 @@ links:
     url: //www.imalun.com/
     image: //www.imalun.com/images/avatar.jpg
     desc: 醒，亦在人间；梦，亦在人间
-- name: 阿童木の秘密基地
+  - name: 阿童木の秘密基地
     url: https://atongmu.netlify.app/
     image: https://atm-1258949050.cos.ap-nanjing.myqcloud.com/blog/202210121054307.jpg
     desc: 室友的博客网站
-- name: 痞老板の梦中小屋 
+  - name: 痞老板の梦中小屋 
     url: https://jiangxiaojie.netlify.app
     image: https://jiangxiaojie.netlify.app/images/theme/welcome-image.jpg
     desc: 室友2的博客网站
+  - name: Hexo 
+    url: https://hexo.io/zh-cn/
+    image: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+    desc: 快速、简洁且高效的博客框架
 top_bars:
   - title: home
     url: /
